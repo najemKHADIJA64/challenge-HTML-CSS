@@ -1,0 +1,81 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+#sec2-1 img {
+	width: 100%;
+	margin-top: 10px;
+}
+
+.father {
+	background: hsl(240, 75%, 98%);
+	width: 100%;
+	margin-top: -25px;
+	height: 440px;
+	position: relative;
+}
+
+/*section-2 partie-1 ( title - p - p - link )*/
+
+.sec2-2 {
+	display: flex;
+	position: relative;
+}
+#sec2-4 {
+	width: 70%;
+	margin-left: 150px;
+}
+div#sec2-4 h1 {
+	font-size: xx-large;
+}
+div#sec2-4 p {
+	font-size: small;
+	width: 70%;
+}
+div#sec2-4 a {
+	text-decoration: none;
+	color: hsl(170, 45%, 43%);
+}
+div#sec2-4 #sec2-5 {
+	margin-bottom: -4px;
+}
+/*section-2 partie-2 ( icone - p - h5 - h6 )*/
+
+#sec2-6 {
+	width: 25%;
+	margin-left: 150px;
+	background: white;
+	height: 125px;
+	white-space: normal;
+	margin-top: 20px;
+	padding: 14px;
+	box-shadow: 2px 2px 2px 2px grey;
+}
+div#sec2-6 p {
+	margin-top: 4px;
+	font-size: small;
+}
+div#sec2-6 h5 {
+	margin-top: -4px;
+	padding-left: 30px;
+}
+div#sec2-6 h6 {
+	margin-top: -19px;
+	font-size: xx-small;
+	padding-left: 30px;
+}
+div#sec2-6 #avatar-testimonial {
+	border-radius: 50%;
+	width: 25px;
+	position: absolute;
+	bottom: 22px;
+}
+
+/*images/illustration-2*/
+
+#sec2-7 {
+	position: absolute;
+	top: 47px;
+	right: 150px;
+	width: 35%;
+}
